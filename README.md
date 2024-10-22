@@ -1,1 +1,1 @@
-# T-ng-h-p-ki-n-th-c-v-SQL-
+There are some documents about SQL I learned and synthesized. Hopefully it will help you. 
